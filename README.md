@@ -27,3 +27,5 @@ $ npm run localhost
 ```
 
 View the website at: http://localhost:3000
+
+You can also visit our deployed URL via Heroku: https://tamidshorturl.herokuapp.com
