@@ -5,6 +5,15 @@ A web application which creates short URLs from long ones
 ## Quick Start
   The quickest way to get started 
 
+  Clone the Repository:
+```bash
+$ git clone https://github.com/MarcoF1/URL-Shortener.git
+```
+  Or if you have SSH keys setup:
+```bash
+$ git clone git@github.com:MarcoF1/URL-Shortener.git
+```
+
   Install dependencies:
 
 ```bash
